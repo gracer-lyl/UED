@@ -1,3 +1,4 @@
 function () {
-	alert('SOSO');
+	alert('SOSO!');
+	console.log('very good!');
 }
