@@ -9,4 +9,7 @@ function() {
 function main() {
 	// body...
 	alert(123);
+	alert(456);
+	alert(789);
+	alert(10, 89);
 }
